@@ -1,2 +1,2 @@
 # Estatistica
-Atividades respondidas da disciplina.
+Questões da disciplina Estatística voltada à computação.
