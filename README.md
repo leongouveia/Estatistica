@@ -1,2 +1,2 @@
-# Lis-De-Estatist
+# Estatistica
 Atividades respondidas da disciplina.
